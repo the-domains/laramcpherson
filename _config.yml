@@ -1,0 +1,28 @@
+name: laramcpherson
+favicon: null
+layout_spectrum: 0.7283965297974646
+typography_spectrum: 0.9645606116391718
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.4952755835838616
+  lightness: 0.33354710997082293
+  saturation: 0.9486897906754166
+  rhythmicContrast: 0.4083761442452669
+purpose: []
